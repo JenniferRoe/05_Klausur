@@ -10,6 +10,6 @@ CREATE TABLE klausur (
 );
 
 INSERT INTO klausur (name, datum, dauer) VALUES
-('Datenbank_klausur', '2026-03-19', '02:00:00');
+('Datenbank_klausur', '2026-03-19', '01:30:00');
 
 SELECT * FROM klausur;
